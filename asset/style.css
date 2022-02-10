@@ -451,7 +451,7 @@ section.profile .avatar {
 }
 section.profile .details {
     width: calc(100% - 275px);
-    margin-left: 25px;
+    margin-right: 25px;
     float: left;
 }
 section.profile h1 {
