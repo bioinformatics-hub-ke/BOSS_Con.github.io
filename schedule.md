@@ -29,19 +29,11 @@
             </nav>
         </header>
       
-      <hr>
+        <hr>
         <hr class="gradient">
-        <section class="speakers">
-            <h1>Speakers</h1>
-            <ul class="speaker-list">
-                <li>
-                <a href="speaker.html">
-                    <img alt="Caleb_kibet" src="image/Jadi_Mirmirani.jpg">
-                    <h3></h3>
-                    <h4>Caleb Kibet</h4>
-                    <h5>Founder OpenScienceKe</h5>
-                </a>
-            </li>
+        <section class="Schedule">
+            <h1>Schedule</h1>
+            
               
         <footer>
             <ul class="linear-list">
